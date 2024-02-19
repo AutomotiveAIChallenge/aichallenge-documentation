@@ -1,0 +1,628 @@
+{
+  "source_base_path": "/home/runner/work/aichallenge-documentation/aichallenge-documentation/documentation/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "FAQ/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "FAQ/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "customize/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "customize/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "customize/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "customize/toc.html"
+        },
+        ".json": {
+          "relative_path": "customize/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/customize/autoware-micro-node-diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/customize/autoware-micro-node-diagram.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/customize/autoware-mini-node-diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/customize/autoware-mini-node-diagram.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/customize/autoware-node-diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/customize/autoware-node-diagram.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/customize/racing_simple.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/customize/racing_simple.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/intro/awsim.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/intro/awsim.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/online/siteImage.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/online/siteImage.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/operation/aichal-2022-expl.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/operation/aichal-2022-expl.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/operation/aichal-vehicle.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/operation/aichal-vehicle.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/operation/autoware_control_enabled.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/operation/autoware_control_enabled.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/operation/loc_initialized.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/operation/loc_initialized.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/operation/operation_mode_auto.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/operation/operation_mode_auto.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/Thumbs.db",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/Thumbs.db"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/course.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/course.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/kadai.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/kadai.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/kadai1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/kadai1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/kadai2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/kadai2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/kadai3-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/kadai3-2.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/kadai3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/kadai3.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/task3-goal.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/task3-goal.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rule/vehicle.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rule/vehicle.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/setup/autoware.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/setup/autoware.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/setup/awsim.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/setup/awsim.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/setup/dallara_mapfile.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/setup/dallara_mapfile.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/setup/mapfiles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/setup/mapfiles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/setup/nvidia-smi.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/setup/nvidia-smi.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/setup/permmision.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/setup/permmision.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/aichallenge-racing-control.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/aichallenge-racing-control.jpeg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/aichallenge-racing-course.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/aichallenge-racing-course.jpeg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/aichallenge-racing-perception.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/aichallenge-racing-perception.jpeg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/aichallenge-racing-planning.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/aichallenge-racing-planning.jpeg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/aichallenge-racing-start.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/aichallenge-racing-start.jpeg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/aichallenge-racing-top.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/aichallenge-racing-top.jpeg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/indy_car.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/indy_car.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/sim_car.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/sim_car.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/sim_control.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/sim_control.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/sim_monza.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/sim_monza.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/sim_perception.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/sim_perception.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/sim_routing.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/sim_routing.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/top/vector_map_monza.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/top/vector_map_monza.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "intro/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "intro/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "intro/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "intro/toc.html"
+        },
+        ".json": {
+          "relative_path": "intro/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "local/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "local/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "local/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "local/toc.html"
+        },
+        ".json": {
+          "relative_path": "local/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "online/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "online/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "online/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "online/toc.html"
+        },
+        ".json": {
+          "relative_path": "online/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "other/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "other/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "other/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "other/toc.html"
+        },
+        ".json": {
+          "relative_path": "other/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "rule/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "rule/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "rule/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "rule/toc.html"
+        },
+        ".json": {
+          "relative_path": "rule/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "setup/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "setup/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "setup/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "setup/toc.html"
+        },
+        ".json": {
+          "relative_path": "setup/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "teams/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "teams/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "teams/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "teams/toc.html"
+        },
+        ".json": {
+          "relative_path": "teams/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
