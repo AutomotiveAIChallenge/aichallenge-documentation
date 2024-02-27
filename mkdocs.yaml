@@ -10,7 +10,7 @@ theme:
     - toc.integrate
   palette:
     scheme: slate
-    primary: black
+    primary: custom
     accent: red
   # logo:
   # favicon:
@@ -36,7 +36,7 @@ nav:
   - Community: community.md
 
 extra_css:
-  - css/custom.css
+  - stylesheets/custom.css
 
 plugins:
   - search:
