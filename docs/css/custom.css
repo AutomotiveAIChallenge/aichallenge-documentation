@@ -1,0 +1,15 @@
+/* Custom styles for titles */
+h1 {
+    padding: 20px 0; /* Some padding above and below the text */
+    text-align: center; /* Center the text */
+    border-bottom: 3px solid red; /* Red underline */
+  }
+  
+  /* Example: */
+  .md-header__inner {
+    border-bottom: 3px solid red;
+  }
+
+.md-nav__list > li:first-child .md-nav__link {
+  border-left: 3px solid red;
+}

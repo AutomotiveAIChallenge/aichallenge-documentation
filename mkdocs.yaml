@@ -35,6 +35,9 @@ nav:
   - FAQ: faq.md
   - Community: community.md
 
+extra_css:
+  - css/custom.css
+
 plugins:
   - search:
   - i18n:
