@@ -4,12 +4,16 @@ docs_dir: docs
 copyright: "&copy; 2024 TIER IV, Inc."
 theme:
   name: material
-  # logo:
-  # favicon:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
+  palette:
+    scheme: slate
+    primary: black
+    accent: red
+  # logo:
+  # favicon:
 
 nav:
   - index: index.md
