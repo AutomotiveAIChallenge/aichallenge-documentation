@@ -1,213 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>Nonecommunity/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/community/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecommunity/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/community/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/community/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/community/"/>
     </url>
     <url>
-        <loc>Nonefaq/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/faq/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonefaq/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/faq/"/>
     </url>
     <url>
-        <loc>None./</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="None"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/"/>
     </url>
     <url>
-        <loc>Noneinformation/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/information/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneinformation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/information/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/information/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/information/"/>
     </url>
     <url>
-        <loc>Nonecompetition/finals/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/competition/finals/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecompetition/finals/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/competition/finals/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/finals/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/finals/"/>
     </url>
     <url>
-        <loc>Nonecompetition/preliminaries/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/competition/preliminaries/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecompetition/preliminaries/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/competition/preliminaries/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/preliminaries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/preliminaries/"/>
     </url>
     <url>
-        <loc>Nonecompetition/rules/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/competition/rules/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecompetition/rules/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/competition/rules/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/rules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/rules/"/>
     </url>
     <url>
-        <loc>Nonedevelopment/architecture/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/development/architecture/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/architecture/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/architecture/"/>
     </url>
     <url>
-        <loc>Nonedevelopment/device-drivers/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/development/device-drivers/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/device-drivers/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/device-drivers/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/device-drivers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/device-drivers/"/>
     </url>
     <url>
-        <loc>Nonedevelopment/installation/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/development/installation/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/installation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/installation/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/installation/"/>
     </url>
     <url>
-        <loc>Nonedevelopment/main-module/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/development/main-module/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/main-module/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/main-module/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/main-module/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/main-module/"/>
     </url>
     <url>
-        <loc>Nonedevelopment/requirements/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/development/requirements/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/requirements/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/requirements/"/>
     </url>
     <url>
-        <loc>Nonespecifications/hardware/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/hardware/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonespecifications/hardware/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/specifications/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/hardware/"/>
     </url>
     <url>
-        <loc>Nonespecifications/interface/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/interface/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonespecifications/interface/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/specifications/interface/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/interface/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/interface/"/>
     </url>
     <url>
-        <loc>Nonespecifications/simulator/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/simulator/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonespecifications/simulator/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/specifications/simulator/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/simulator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/simulator/"/>
     </url>
     <url>
-        <loc>Noneen/community/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/community/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/community/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecommunity/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/community/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/community/"/>
     </url>
     <url>
-        <loc>Noneen/faq/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/faq/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/faq/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonefaq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/faq/"/>
     </url>
     <url>
-        <loc>Noneen/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/"/>
     </url>
     <url>
-        <loc>Noneen/information/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/information/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/information/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneinformation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/information/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/information/"/>
     </url>
     <url>
-        <loc>Noneen/competition/finals/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/finals/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/competition/finals/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecompetition/finals/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/finals/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/finals/"/>
     </url>
     <url>
-        <loc>Noneen/competition/preliminaries/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/preliminaries/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/competition/preliminaries/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecompetition/preliminaries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/preliminaries/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/preliminaries/"/>
     </url>
     <url>
-        <loc>Noneen/competition/rules/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/rules/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/competition/rules/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonecompetition/rules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/rules/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/rules/"/>
     </url>
     <url>
-        <loc>Noneen/development/architecture/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/architecture/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/architecture/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/architecture/"/>
     </url>
     <url>
-        <loc>Noneen/development/device-drivers/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/device-drivers/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/device-drivers/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/device-drivers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/device-drivers/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/device-drivers/"/>
     </url>
     <url>
-        <loc>Noneen/development/installation/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/installation/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/installation/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/installation/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/installation/"/>
     </url>
     <url>
-        <loc>Noneen/development/main-module/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/main-module/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/main-module/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/main-module/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/main-module/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/main-module/"/>
     </url>
     <url>
-        <loc>Noneen/development/requirements/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/requirements/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/development/requirements/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonedevelopment/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/development/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/development/requirements/"/>
     </url>
     <url>
-        <loc>Noneen/specifications/hardware/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/hardware/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/specifications/hardware/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonespecifications/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/hardware/"/>
     </url>
     <url>
-        <loc>Noneen/specifications/interface/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/interface/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/specifications/interface/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonespecifications/interface/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/interface/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/interface/"/>
     </url>
     <url>
-        <loc>Noneen/specifications/simulator/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/simulator/</loc>
         <lastmod>2024-02-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/specifications/simulator/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Nonespecifications/simulator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/specifications/simulator/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/specifications/simulator/"/>
     </url>
 </urlset>
