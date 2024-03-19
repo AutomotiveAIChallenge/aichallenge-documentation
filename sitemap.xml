@@ -50,11 +50,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/competition/rules/"/>
     </url>
     <url>
-        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/course/course/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/course/</loc>
         <lastmod>2024-03-19</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/course/course/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/course/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/course/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/"/>
     </url>
     <url>
         <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/course/sensing/</loc>
@@ -176,11 +176,11 @@
         <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/competition/rules/"/>
     </url>
     <url>
-        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/course/</loc>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/</loc>
         <lastmod>2024-03-19</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/course/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/course/course/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation/course/"/>
     </url>
     <url>
         <loc>https://automotiveaichallenge.github.io/aichallenge-documentation/en/course/sensing/</loc>
